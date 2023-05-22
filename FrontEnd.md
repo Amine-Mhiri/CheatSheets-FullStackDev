@@ -26,9 +26,6 @@ Table of content:
 ---
 
 #### Complete HTML cheat sheets:<a name="1aa"></a>
-
-[My HTML cheat sheet article 🙃](https://dev.to/devlorenzo/html-tags-cheat-sheet-pip)
-
 -
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1timjsfmz66nbe577t3.png) 
