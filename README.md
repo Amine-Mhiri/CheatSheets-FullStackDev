@@ -87,6 +87,4 @@ Table of content:
 
 **Remember the ⭐**
 
-[Go to Bottom - ⬇️](#bottom)
-
 ---
