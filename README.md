@@ -10,6 +10,7 @@ The most complete cheat sheet compilation you can find online!
 ---
 
 Table of content:
+
 🚀 - [Basic Knowledge](#0) 
 1. [History of the Web](#0a)
 2. [Running traceroute](#0b)
